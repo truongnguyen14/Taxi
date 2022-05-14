@@ -1,0 +1,18 @@
+###
+POST http://localhost:8080/api/cars
+Content-Type: application/json
+
+{
+    "VIN": 10,
+    "manufacturer" : "asdasdasdasdas",
+    "model": "asdasdasda",
+    "color": "red",
+    "convertible": true,
+    "rating": 8,
+    "licensePlate": "sdfsdfsfsd",
+    "perKMRate": 9
+}
+
+<> 2022-05-03T142739.415.json
+
+###
